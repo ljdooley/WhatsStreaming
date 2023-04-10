@@ -1,4 +1,4 @@
-﻿namespace WhatsStreaming.Models
+﻿namespace WhatsStreaming.Data.Entities
 {
     public class StreamingService
     {

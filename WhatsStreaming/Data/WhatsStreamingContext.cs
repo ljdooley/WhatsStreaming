@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WhatsStreaming.Data.Entities;
 
-namespace WhatsStreaming.Models
+namespace WhatsStreaming.Data
 {
     public class WhatsStreamingContext : DbContext
     {
